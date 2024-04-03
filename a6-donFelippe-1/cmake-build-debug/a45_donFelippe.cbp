@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a45_donFelippe"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/UBB/a6-donFelippe-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_donFelippe">
+				<Option output="D:/UBB/a6-donFelippe-1/cmake-build-debug/a45_donFelippe.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UBB/a6-donFelippe-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 a45_donFelippe"/>
+					<CompileFile command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_donFelippe/fast">
+				<Option output="D:/UBB/a6-donFelippe-1/cmake-build-debug/a45_donFelippe.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UBB/a6-donFelippe-1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/CLion 2022.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 a45_donFelippe/fast"/>
+					<CompileFile command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/UBB/a6-donFelippe-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/UBB/a6-donFelippe-1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CLion 2022.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/UBB/a6-donFelippe-1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/UBB/a6-donFelippe-1/Database/Database.h">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/Database/DynamicArray.cpp">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/Database/DynamicArray.h">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/Vector.h">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/admin_mode/Admin.cpp">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/admin_mode/Admin.h">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/main.cpp">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/user_mode/User.cpp">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/user_mode/User.h">
+			<Option target="a45_donFelippe"/>
+		</Unit>
+		<Unit filename="D:/UBB/a6-donFelippe-1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
